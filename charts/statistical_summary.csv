@@ -1,0 +1,13 @@
+Metric,Value
+Total Customers,7043.0
+Churned Customers,2032.0
+Churn Rate (%),28.85
+Avg Tenure Churned (mo),25.4
+Avg Tenure Retained (mo),34.5
+Avg Monthly Charge Churned,72.54
+Avg Monthly Charge Retained,63.13
+Low Risk Customers,1946.0
+Medium Risk Customers,2041.0
+High Risk Customers,2390.0
+Critical Risk Customers,666.0
+Monthly Revenue at Risk ($),229890.66
