@@ -200,7 +200,7 @@ mysql -u root -p < sql/schema.sql
 
 [![GitHub](https://img.shields.io/badge/GitHub-adityabobade7900-black?style=for-the-badge&logo=github)](https://github.com/adityabobade7900/CustomerChurnPrediction)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Bobade-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adityabobade7900)
-[![Email](https://img.shields.io/badge/Email-bobade1436%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bobade1436@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-bobade1436%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bobade1436@gmail.com)
 ---
 
 ## 📞 Need Help?
