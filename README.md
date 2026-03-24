@@ -10,12 +10,11 @@
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Application
 
-👉 **[Open the App](https://customerchurnprediction.streamlit.app)** ← *(replace with your real URL after deploying)*
+👉 https://customerchurnprediction7900.streamlit.app
 
-> **To deploy:** Push to GitHub → [share.streamlit.io](https://share.streamlit.io) → connect repo → set `app_ui.py` as main file → Deploy.
-
+This application predicts customer churn risk in real-time and provides actionable insights for retention strategies.
 ---
 
 ## 📌 Problem Statement
